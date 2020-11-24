@@ -1,0 +1,2 @@
+# portafolioCB
+Este es un porfolio personal que realizo al finalizar el Curso de Desarrollador Web Full Stack con Digital House. Se trata de una carpeta de expresión y presentación de CaroBarila. Reunirá, entre otros, una descripción personal, pequeños trabajos, proyectos, anotaciones y tutoriales de cursos, recursos de mi interés y hojas de código reutilizable. (Tenga a bien quien pase por acá de entender que son mis primeros pasos en la programación, los invito a "chusmear", agradezco sean co-constructivos).-
